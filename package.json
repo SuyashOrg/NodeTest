@@ -1,0 +1,28 @@
+{
+  "name": "NodeTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuyashOrg/NodeTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuyashOrg/NodeTest/issues"
+  },
+  "homepage": "https://github.com/SuyashOrg/NodeTest#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2",
+    "supertest": "^2.0.1"
+  }
+}
